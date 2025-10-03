@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <Your Name> - Portfolio
+title: <Swati Sriram> - Portfolio
 permalink: /projects/
 ---
 
