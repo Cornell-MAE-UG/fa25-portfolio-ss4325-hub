@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <Swati Sriram>
+title: Swati Sriram
 ---
 
 ## About Me
