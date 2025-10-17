@@ -8,43 +8,42 @@ permalink: /cv/
 [Download my CV]({{ "/assets/CV.pdf" | relative_url }}) in PDF format.
 
 
-**Email:** [netID@cornell.edu](mailto:netID@cornell.edu) | | | **Phone:** +123 456 7890
+**Email:** [ss4325@cornell.edu](mailto:ss4325@cornell.edu) | | | **Phone:** +781 528 5122
 
 ---
 
 #### Objective
-Aspiring engineering student with a strong foundation in.... Passionate about ... and eager to apply my knowledge in real-world applications.
+Aspiring engineering student with a strong foundation in robotics and computer vision.
 
 ---
 
 #### Education
 - **Cornell University**  
-  *Bachelor of Science in Mechanical and Aerospace Engineering*  
-  GPA: 3.8/4.0 | Graduation: Month, Year
+  *Bachelor of Science in Mechanical*  
+  GPA: 3.8/4.0 | Graduation: May, 2028
 
-- **[High School Name]**  
-  *High School Diploma*  
-  Graduation: [Month, Year]
+- **Lexington High School**    
+  Graduation: May, 2024
 
 ---
 
 #### Skills
-- **Software:** Autodesk Fusion 360, SolidWorks, ANSYS  
-- **Programming:** Python, MATLAB  
+- **Software:** SolidWorks, PyTorch
+- **Programming:** Python, MATLAB, Java, C++ 
 - **Tools:** 3D Printing, Laser Cutting  
 
 ---
 
 #### Projects
-- **[Project Title]**:  
-  *[Short Description]*  
-  - Key Achievement 1  
+- **Cornell Autonomous Underwater Vehicle**:  
+  *Mechanical subteam member responsible for designing, building and testing two submarines* 
+  - Designed, modeled, and machined a water tight encolsure for underwater transmission. 
   - Key Achievement 2  
 
-- **[Project Title]**:  
-  *[Short Description]*  
-  - Key Achievement 1  
-  - Key Achievement 2  
+- **Organic Robotics Lab**:  
+  **  
+  - Desinged a robot to non-destructively image roots from the soil.   
+  - Currently making a sensor out of mycelium 
 
 ---
 
