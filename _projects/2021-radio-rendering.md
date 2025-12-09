@@ -13,4 +13,4 @@ Below you can find my calculations for the task of creating a frame that can lif
 
 ![Photo of calculations]({{ "/assets/images/statics calculations.jpg" | relative_url }}){: .inline-image-l}
 
-Here you can see that a maximum weight of 50.9 kN.
+Here you can see that a maximum weight of 50.9 kN!
