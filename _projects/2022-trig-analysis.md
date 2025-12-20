@@ -1,8 +1,8 @@
 ---
 layout: project
-title: Analysis of Functions
-description: Class project with Graphs
-technologies: [MATLAB, python]
+title: ENGRD 2210 Project
+description: Extra Credit Assignment for Devices
+technologies: [Thermo]
 image: /assets/images/function-graph.png
 ---
 
