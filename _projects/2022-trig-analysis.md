@@ -9,9 +9,10 @@ image: /assets/images/Dry Stream Power Plant.jpg
 
 This project analyzes a direct dry steam geothermal power plant, used at The Geysers geothermal field in California. In this system, naturally occurring steam from a geothermal reservoir is routed directly to a turbine to generate electricity.
 
+### Simiplfied Schematic of a Direct Dry Stream Power Plant
 ![Photo of plant]({{ "/assets/images/Dry Steam Power Plant.jpg" | relative_url }}){: .block-image}
 
-# Overview
+### Overview
 
 Steam at high temperature and pressure is extracted from deep underground geothermal reservoirs through production wells. Because the fluid emerges as saturated vapor or  superheated steam, it can be sent directly to a steam turbine. The steam expands through the turbine, producing shaft work that drives an electric generator.
 
