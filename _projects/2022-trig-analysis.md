@@ -28,14 +28,16 @@ Below you can see the full schematic of the cycle modeled as a control volume. T
 
 ### Energy and Mass Balance Equations:
 
-## Assumptions 
+#### Assumptions 
 1. The turbine is adiabatic
 2. Neglect the work done by pumps and the mass out from the cooling towers as they are much smaller than the turbine work and the mass reinjected
 3. Neglect kinetic and potential energy
 
-## Equations for the Entire System
+#### Equations for the Entire System
 
-$$m˙steam​=m˙condensate​$$
+$$\dot{m}_{\mathrm{steam}} = \dot{m}_{\mathrm{condensate}}$$
+$$\dot{Q}_{\mathrm{in}} - \dot{Q}_{\mathrm{out}} = \dot{W}_{\mathrm{turbine}}$$
+
 
 
 
