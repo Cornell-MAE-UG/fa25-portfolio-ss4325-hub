@@ -35,10 +35,13 @@ Below you can see the full schematic of the cycle modeled as a control volume. T
 
 #### Energy and Mass Balance for the Entire System
 
+{% raw %}
 $$
 \dot{m}_{\mathrm{steam}} = \dot{m}_{\mathrm{condensate}} \\
 \dot{Q}_{\mathrm{in}} - \dot{Q}_{\mathrm{out}} = \dot{W}_{\mathrm{turbine}}
 $$
+{% endraw %}
+
 
 #### Turbine
 
