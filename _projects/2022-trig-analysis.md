@@ -2,7 +2,7 @@
 layout: project
 title: ENGRD 2210 Project
 description: Extra Credit Assignment for Devices
-technologies: [Thermo]
+technologies: Control Volume Analysis
 image: /assets/images/annotated.jpg
 ---
 
