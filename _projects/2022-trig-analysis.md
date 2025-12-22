@@ -3,7 +3,7 @@ layout: project
 title: ENGRD 2210 Project
 description: Extra Credit Assignment for Devices
 technologies: [Control Volume Analysis]
-image: /assets/images/annotated.jpg
+image: /assets/images/Dry_Steam_Power_Plant.jpg.jpg
 ---
 
 
@@ -24,4 +24,4 @@ Below you can see the full schematic of the cycle modeled as a control volume. T
 
 ##### Annotated Schematic of a Direct Dry Stream Power Plant
 
-![Photo of plant]({{ "/assets/images/annotated.jpg" | relative_url }}){: .inline-image-l}
+![Photo of plant]({{ "/assets/images/annotated.jpg" | relative_url }}){: width="400px" height="300px"}
