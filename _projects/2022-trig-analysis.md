@@ -7,9 +7,15 @@ image: /assets/images/Dry Stream Power Plant.jpg
 ---
 
 
-For my project, I decided to analyise a direct dry steam approarch used in producing geothermal energy in California. Below you can see a drawing of the system with the main components being a turbine and a generator. 
+This project analyzes a direct dry steam geothermal power plant, used at The Geysers geothermal field in California. In this system, naturally occurring steam from a geothermal reservoir is routed directly to a turbine to generate electricity.
 
 ![Photo of plant]({{ "/assets/images/Dry Steam Power Plant.jpg" | relative_url }}){: .inline-image-l}
 
-Water from deep in the earth is pressurized and pumped to the surface as a saturated vapor and spins a turbine. It then condenses and turns into a liquid that is released back into the earth. 
+#Overview
+
+Steam at high temperature and pressure is extracted from deep underground geothermal reservoirs through production wells. Because the fluid emerges as saturated vapor or  superheated steam, it can be sent directly to a steam turbine. The steam expands through the turbine, producing shaft work that drives an electric generator.
+
+After expansion, the low-pressure steam enters a condenser, which is not shown on the simplified diagram. It is cooled and condensed into liquid water using ambient cooling (through cooling towers). The condensed water is then reinjected into the geothermal reservoir for environmental and economical reasons.
+
+This is an open system operating continuously, with both mass and energy crossing the system boundary.
 
