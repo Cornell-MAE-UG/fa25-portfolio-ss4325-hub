@@ -14,7 +14,7 @@ This project analyzes a direct dry steam geothermal power plant, used at the Gey
 
 ### Overview
 
-Water at high temperature and pressure is extracted from deep underground geothermal reservoirs through production wells. It is then run through a separator that only allows the steam to pass through and the heavier liquid behind. Because the steam is separated as  saturated vapor or superheated steam, it can be sent directly to a steam turbine. The steam expands through the turbine, producing shaft work that drives an electric generator.
+Water at high temperature and pressure is extracted from deep underground geothermal reservoirs . It is then run through a separator that only allows the steam to pass through and leaves the heavier liquid behind. Because the steam is separated as saturated vapor or superheated steam, it can be sent directly to a steam turbine. The steam expands through the turbine, producing shaft work that drives an electric generator.
 
 After expansion, the low-pressure steam enters a condenser, which is not shown on the simplified diagram. It is cooled and condensed into liquid water using ambient cooling (through cooling towers). The condensed water is then reinjected into the geothermal reservoir for environmental and economical reasons.
 
@@ -24,4 +24,18 @@ Below you can see the full schematic of the cycle modeled as a control volume. T
 
 ##### Annotated Schematic of a Direct Dry Stream Power Plant
 
-![Photo of plant]({{ "/assets/images/annotated.jpg" | relative_url }}){: width="400px" height="300px"}
+![Photo of plant]({{ "/assets/images/annotated.jpg" | relative_url }}){: width="500px" height="300px"}
+
+### Energy and Mass Balance Equations:
+
+## Assumptions 
+1. The turbine is adiabatic
+2. Neglect the work done by pumps and the mass out from the cooling towers as they are much smaller than the turbine work and the mass reinjected
+3. Neglect kinetic and potential energy
+
+## Equations for the Entire System
+
+$$m˙steam​=m˙condensate​$$
+
+
+
