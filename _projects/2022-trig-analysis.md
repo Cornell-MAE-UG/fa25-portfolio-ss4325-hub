@@ -33,10 +33,15 @@ Below you can see the full schematic of the cycle modeled as a control volume. T
 2. Neglect the work done by pumps and the mass out from the cooling towers as they are much smaller than the turbine work and the mass reinjected
 3. Neglect kinetic and potential energy
 
-#### Equations for the Entire System
+#### Energy and Mass Balance for the Entire System
 
-$$\dot{m}_{\mathrm{steam}} = \dot{m}_{\mathrm{condensate}}$$
-$$\dot{Q}_{\mathrm{in}} - \dot{Q}_{\mathrm{out}} = \dot{W}_{\mathrm{turbine}}$$
+$$
+\dot{m}_{\mathrm{steam}} = \dot{m}_{\mathrm{condensate}} \\
+\dot{Q}_{\mathrm{in}} - \dot{Q}_{\mathrm{out}} = \dot{W}_{\mathrm{turbine}}
+$$
+
+#### Turbine
+
 
 
 
