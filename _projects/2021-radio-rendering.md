@@ -1,9 +1,9 @@
 ---
 layout: project
-title: Passive SLF Pre-harvest Trap for NYS Industrial Vineyards
+title: Fluids Placeholder
 description: Team Buzzkill — Cornell CALS Extension / E&J Gallo Winery / National Grape
 technologies: [Jekyll, Markdown, CAD, Laser Cutting, 3D Printing, Prototyping, Testing]
-image: assets/images/ThumbnailODP5.png
+image: assets/images/old-radio.jpg
 ---
 
 <div style="border:1px solid #ddd; border-radius:10px; padding:1rem 1.25rem; margin:1rem 0 1.5rem 0; background:#fafafa;">
